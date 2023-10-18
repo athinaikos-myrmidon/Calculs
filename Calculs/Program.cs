@@ -38,7 +38,6 @@ namespace Calculs
                     if (choix == 1)
                     {
                         // choix de l'addition
-
                         // saisie de la réponse
                         Console.Write(val1 + " + " + val2 + " = ");
                         reponse = int.Parse(Console.ReadLine());
